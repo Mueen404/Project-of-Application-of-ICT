@@ -1,9 +1,9 @@
-# HTML & CSS – Inventory Management System Form
+# Application of ICT– Inventory Management System 
 
 ## 📘 Project Profile
 
 ### Project Title
-**HTML & CSS–Based Inventory Management System Form**
+**Based Inventory Management System Form**
 
 ### Course
 Information and Communication Technology (ICT)
@@ -15,12 +15,12 @@ Semester 1
 Group-Based Academic Project
 
 ### Project Description
-# Inventory Management System Form
+# Inventory Management System 
 
 ## 📌 Project Overview
-The **Inventory Management System Form** is a front-end web development project designed using **HTML5** and **CSS3**. The project focuses on developing a structured and user-friendly interface that allows users to enter and manage basic inventory information through a web-based form.
+The **Inventory Management System Form** is a front-end web development project designed using **HTML5** and **CSS3**. The project focuses on developing a structured and user-friendly interface that allows users to enter and manage basic inventory information through a web-based form, crate a researh paper on MS Word,Manage inventory system in Excel sheet and create presentaion of all tasks.
 
-The system emphasizes the proper use of HTML form elements, clean layout design, and effective CSS styling. This project does not include backend functionality or database integration, as it is intended to strengthen foundational knowledge of front-end development and web design principles.
+The system emphasizes the proper use of HTML form elements, clean layout design, and effective CSS styling, use of Ms word,Ms Excel and power point. This project does not include backend functionality or database integration, as it is intended to strengthen foundational knowledge of front-end development and web design principles.
 
 ---
 
@@ -38,7 +38,8 @@ The system emphasizes the proper use of HTML form elements, clean layout design,
 - **HTML5**  
 - **CSS3**  
 - **Microsoft Word** (Documentation)  
-- **Microsoft PowerPoint** (Presentation)  
+- **Microsoft Excel** (Management)
+- **Microsoft PowerPoint** (Presentation)
 - **GitHub** (Version Control and Repository Management)  
 
 ---
@@ -46,7 +47,7 @@ The system emphasizes the proper use of HTML form elements, clean layout design,
 ---
 
 ### 🧠 Project Abstract
-The **Inventory Management System Form** is a front-end web application designed using **HTML5** and **CSS3** to demonstrate essential web development concepts. The project focuses on creating a structured, user-friendly, and visually consistent inventory form that enables users to enter and organize basic inventory-related data.
+The **Inventory Management System ** is a front-end web application designed using **HTML5** and **CSS3** to demonstrate essential web development concepts. The project focuses on creating a structured, user-friendly, and visually consistent inventory form that enables users to enter and organize basic inventory-related data.
 
 The system emphasizes clean layout design, proper use of HTML form elements, and effective CSS styling techniques. Although the project does not include backend functionality or database integration, it provides a strong foundational understanding of front-end development practices. Additionally, the project promotes teamwork, documentation skills, and the practical use of **GitHub** for version control and academic collaboration.
 
@@ -69,7 +70,7 @@ Each member actively contributed to design, development, documentation, and pres
 
 ### 🎓 Project Mentor
 **Mentor / Supervisor:**  
-*ICT Course Instructor*
+*Prof. Yawar Sb*
 
 This project was completed under the academic guidance of our ICT mentor, whose supervision and feedback were instrumental in ensuring proper project structure, documentation quality, and adherence to course objectives.
 
@@ -79,7 +80,8 @@ This project was completed under the academic guidance of our ICT mentor, whose 
 - HTML5  
 - CSS3  
 - Microsoft Word (Documentation)  
-- Microsoft PowerPoint (Presentation)  
+- Microsoft PowerPoint (Presentation)
+- - Microsoft Excel (Management)
 - GitHub (Version Control & Repository Hosting)
 
 ---
