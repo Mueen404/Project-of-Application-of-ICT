@@ -3,7 +3,7 @@
 ## 📘 Project Profile
 
 ### Project Title
-**Based Inventory Management System Form**
+**Based Inventory Management System **
 
 ### Course
 Information and Communication Technology (ICT)
