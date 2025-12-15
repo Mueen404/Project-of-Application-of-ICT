@@ -1,14 +1,58 @@
-# HTML & CSS – Inventory System Form Project
+# HTML & CSS – Inventory Management System Form
+
+## 📘 Project Profile
+
+### Project Title
+**HTML & CSS–Based Inventory Management System Form**
+
+### Course
+Information and Communication Technology (ICT)
+
+### Academic Level:
+Semester 1
+
+### Project Type:
+Group-Based Academic Project
+
+### Project Description
+# Inventory Management System Form
 
 ## 📌 Project Overview
-This project is an **Inventory Management System Form** developed using **HTML and CSS** as part of our **Semester 1 ICT group project**.  
-The main objective of this project is to design a user-friendly interface that allows users to manage inventory records through structured forms.
+The **Inventory Management System Form** is a front-end web development project designed using **HTML5** and **CSS3**. The project focuses on developing a structured and user-friendly interface that allows users to enter and manage basic inventory information through a web-based form.
 
-This project focuses on **front-end development**, layout design, and form handling concepts using basic web technologies.
+The system emphasizes the proper use of HTML form elements, clean layout design, and effective CSS styling. This project does not include backend functionality or database integration, as it is intended to strengthen foundational knowledge of front-end development and web design principles.
 
 ---
 
-## 👨‍💻 Group Information
+## 🎯 Project Objectives
+- To understand and implement HTML form structures  
+- To apply CSS for layout design and visual styling  
+- To develop a simple inventory management interface  
+- To enhance user experience through organized design  
+- To promote teamwork and collaborative development  
+- To practice project documentation and presentation skills  
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5**  
+- **CSS3**  
+- **Microsoft Word** (Documentation)  
+- **Microsoft PowerPoint** (Presentation)  
+- **GitHub** (Version Control and Repository Management)  
+
+---
+
+---
+
+### 🧠 Project Abstract
+The **Inventory Management System Form** is a front-end web application designed using **HTML5** and **CSS3** to demonstrate essential web development concepts. The project focuses on creating a structured, user-friendly, and visually consistent inventory form that enables users to enter and organize basic inventory-related data.
+
+The system emphasizes clean layout design, proper use of HTML form elements, and effective CSS styling techniques. Although the project does not include backend functionality or database integration, it provides a strong foundational understanding of front-end development practices. Additionally, the project promotes teamwork, documentation skills, and the practical use of **GitHub** for version control and academic collaboration.
+
+---
+
+### 👥 Development Team
 
 **Group Name:**  
 **Four Future Tech**
@@ -19,81 +63,40 @@ This project focuses on **front-end development**, layout design, and form handl
 - Mashood Nasir  
 - Mirza Hussnain  
 
----
-
-## 🎯 Project Objectives
-- To understand the basics of **HTML structure**
-- To apply **CSS styling** for better UI/UX
-- To design a clean and organized **inventory system form**
-- To learn teamwork and project documentation
-- To use **GitHub** for project version control and collaboration
+Each member actively contributed to design, development, documentation, and presentation tasks.
 
 ---
 
-## 🛠️ Technologies Used
-- **HTML5**
-- **CSS3**
-- **Microsoft Word** (Documentation)
-- **Microsoft PowerPoint** (Presentation)
-- **GitHub** (Version Control & Hosting)
+### 🎓 Project Mentor
+**Mentor / Supervisor:**  
+*ICT Course Instructor*
+
+This project was completed under the academic guidance of our ICT mentor, whose supervision and feedback were instrumental in ensuring proper project structure, documentation quality, and adherence to course objectives.
 
 ---
 
-## 📂 Repository Contents
-
-The repository contains the following files and documents:
-
-| File Name | Description |
-|---------|------------|
-| `HTML & CSS - Inventory System Form Project` | Main project folder/files |
-| `74613_Powerpoint_Ict_project_documentation.docx` | Project documentation |
-| `MAshood.docx` | Individual contribution/document |
-| `Presentation of ict project.pptx` | Project presentation slides |
-| `ict project rashid _1.docx` | Individual report/document |
-| `inventory management system html 76831.docx` | Inventory system explanation and design |
+### 🛠️ Technologies Used
+- HTML5  
+- CSS3  
+- Microsoft Word (Documentation)  
+- Microsoft PowerPoint (Presentation)  
+- GitHub (Version Control & Repository Hosting)
 
 ---
 
-## 🧾 Project Description
-
-The **Inventory Management System Form** allows users to:
-- Enter product details
-- Manage item records
-- Understand form design principles
-- Practice HTML input elements and CSS layout styling
-
-This project does **not include backend or database integration**, as it is designed for **beginner-level learning** and UI development.
+### 📂 Repository Description (GitHub About Section)
+> A front-end Inventory Management System Form developed using HTML & CSS as a Semester 1 ICT group project by Four Future Tech.
 
 ---
 
-## 🚀 How to Use the Project
-1. Download or clone the repository
-2. Open the HTML file in any web browser
-3. View and interact with the inventory form
-4. Modify the CSS file to experiment with different designs
 
 ---
 
-## 📘 Learning Outcomes
-- Understanding of HTML form elements
-- Practical use of CSS for layout and styling
-- Experience working in a group project
-- Basic knowledge of GitHub repositories
-- Documentation and presentation skills
+### 📜 Usage & License
+This project is intended **strictly for educational purposes** and academic evaluation.  
+All rights are reserved by **Four Future Tech**.
 
 ---
 
-## 📜 License
-This project is created for **educational purposes only** as part of an academic assignment.
-
----
-
-## 🙌 Acknowledgment
-We would like to thank our **ICT instructor** and **Riphah International University** for guidance and support throughout this project.
-
----
-
-## ⭐ GitHub Note
-If you find this project helpful, feel free to ⭐ the repository.
-
----
+### 🙏 Acknowledgment
+We gratefully acknowledge the support and guidance of our **ICT instructor** and **Riphah International University** for providing the opportunity and resources to complete this project successfully.
