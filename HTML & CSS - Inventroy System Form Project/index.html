@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inventory Management System - Form </title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="frm">
+    <div class="form-header-banner">
+        <h1>New Inventory Item</h1>
+    </div>
+    
+    <div class="frm-bdy">
+        <form action="#" method="POST">
+            
+            <label for="item-name">Item Name</label>
+            <input type="text" id="item-name" class="frm-input-logo" name="item-name" placeholder="e.g., Wireless Keyboard" required>
+
+            <label for="itemId">Item ID (SKU)</label>
+            <input type="text" id="itemId" class="frm-input-logo" name="itemId" placeholder="e.g., KB-X99" required>
+
+            <label for="category">Category</label>
+            <select id="category" name="category">
+                <option value=" disabled selected">Select a Category</option>
+                <option value="electronics">Electronics</option>
+                <option value="warehouse">Warehouse Supplies</option>
+                <option value="office">Office Materials</option>
+                <option value="parts">Spare Parts</option>
+            </select>
+            <label>Item Condition</label>
+
+<div class="radio-group">
+    <input type="radio" id="condition-new" name="condition" value="New" required>
+    <label for="condition-new">New</label>
+
+    <input type="radio" id="condition-used" name="condition" value="Used">
+    <label for="condition-used">Used</label>
+
+    <input type="radio" id="condition-refurb" name="condition" value="Refurbished">
+    <label for="condition-refurb">Refurbished</label>
+</div>
+
+            <div style="display: flex; gap: 15px;"> <div style="flex: 1;">
+                    <label for="quantity">Quantity</label>
+                    <input type="number" id="quantity" class="frm-input-logo" name="quantity" min="1" placeholder="Qty" required>
+                </div>
+                <div style="flex: 1;">
+                    <label for="price">Unit Price</label>
+                    <input type="number" id="price" class="frm-input-logo" name="price" min="0.01" step="0.01" placeholder="0.00" required>
+                </div>
+            </div>
+
+            <label for="supplier">Supplier</label>
+            <input type="text" id="supplier" class="frm-input-logo" name="supplier" placeholder="e.g., Global Logistics Co." required>
+
+            <label for="aqqA">Date Received</label>
+            <input type="date" id="entryDate" name="entryDate" required>
+
+            <button type="submit">Add Item to Stock</button>
+        </form>
+    </div>
+</div>
+
+</body>
+</html>

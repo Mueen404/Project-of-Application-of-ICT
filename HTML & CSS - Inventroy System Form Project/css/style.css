@@ -1,0 +1,170 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-image:linear-gradient(145deg, rgba(123, 82, 247, 0.5), rgba(0, 0, 0, 0.5)), url(../img/backgound-img.jpeg) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0 ;
+    padding: 25px;
+}
+.frm {
+    background-color: white ;
+    border-radius: 13px ;
+    box-shadow: 0 15px 35px rgba(122, 30, 30, 0.76);
+    width: 100%;
+    max-width: 480px;
+    overflow: hidden; 
+}
+.frm-bdy {
+    padding: 30px;
+}
+
+.form-header-banner {
+    background-image: url(../img/download.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 120px;
+    width: 100%;
+    position: relative;
+}
+
+
+.form-header-banner::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.form-header-banner h1 {
+    position: relative;
+    z-index: 1;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding-top: 45px;
+    font-size: 36px;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #4a5568;
+    font-size: 14px;
+}
+
+
+input, select {
+    width: 100%;
+    padding: 12px 15px;
+    margin-bottom: 20px;
+    border: 2px solid #e2e8f0;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-size: 15px;
+    transition: all 0.3s ease;
+    color: #2d3748;
+}
+
+
+input:focus, select:focus {
+    border-color: #667eea;
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+    outline: none;
+}
+
+
+.frm-input-logo {
+    padding-left: 45px; 
+    background-repeat: no-repeat;
+    background-position: 12px center; 
+    background-size: 20px; 
+}
+
+
+#item-name { background-image: url("../img/itemName.png"); }
+#itemId { background-image: url("../img/itemId.png"); }
+#quantity { background-image: url("../img/quantity.png"); }
+#price { background-image: url("../img/price.png"); }
+#supplier { background-image: url("../img/supplier.png"); }
+
+select {
+        background-image: url("../img/ArrowDown.png");
+        background-repeat: no-repeat;
+        background-position: right 15px center;
+        background-size: 18px;
+        appearance: none; 
+        -webkit-appearance: none;
+        padding-right: 40px; 
+}
+button {
+    width: 100%;
+    padding: 15px;
+    
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    box-shadow: 0 10px 20px -10px rgba(102, 126, 234, 0.5);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.radio-group {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 20px;
+}
+
+.radio-group input[type="radio"] {
+    display: none; 
+}
+
+.radio-group label {
+    flex: 1;
+    text-align: center;
+    padding: 12px 10px;
+    border: 2px solid #e2e8f0;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    color: #4a5568;
+    background-color: #f9fafb;
+    transition: all 0.3s ease;
+}
+.radio-group input[type="radio"]:checked + label {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+    border-color: #667eea;
+    box-shadow: 0 8px 18px -8px rgba(102, 126, 234, 0.7);
+}
+
+.radio-group label:hover {
+    border-color: #667eea;
+}
+button:hover {
+    transform: translateY(-3px); 
+    box-shadow: 0 15px 30px -10px rgba(102, 126, 234, 0.7);
+}
+button:active {
+    transform: translateY(-1px);
+}
